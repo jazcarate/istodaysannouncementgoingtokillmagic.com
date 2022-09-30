@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://blog.florius.com.ar/sitemap.xml
+Sitemap: https://istodaysannouncementgoingtokillmagic.com/sitemap.xml
