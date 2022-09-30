@@ -4,8 +4,20 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-  <url>
-    <loc>https://istodaysannouncementgoingtokillmagic.com/</loc>
-    <lastmod>2021-05-13T21:06:28+00:00</lastmod>
-  </url>
+
+    <url>
+        <loc>https://istodaysannouncementgoingtokillmagic.com/</loc>
+        <lastmod>2022-09-30T12:51:21.455Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://istodaysannouncementgoingtokillmagic.com/s/competitive-play/</loc>
+        <lastmod>2022-09-30T12:51:21.455Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://istodaysannouncementgoingtokillmagic.com/s/judge-program/</loc>
+        <lastmod>2022-09-30T12:51:21.455Z</lastmod>
+    </url>
+
 </urlset>
